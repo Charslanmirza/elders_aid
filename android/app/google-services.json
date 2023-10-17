@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "452696359678",
+    "firebase_url": "https://eldersaid-9d168-default-rtdb.firebaseio.com",
+    "project_id": "eldersaid-9d168",
+    "storage_bucket": "eldersaid-9d168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452696359678:android:2388d95ce0e07d94e01baf",
+        "android_client_info": {
+          "package_name": "com.example.elders_aid_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452696359678-t0j3in6o6epkk5gbvkm7b8kmrk7jivd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANx5y3oO8pGSoOvopyJowKuJROnv12DDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452696359678-t0j3in6o6epkk5gbvkm7b8kmrk7jivd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
